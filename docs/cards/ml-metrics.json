@@ -1,0 +1,10 @@
+{
+    "f1_scores": {
+      "alluvial_soil": 0.9943,
+      "black_soil": 0.9913,
+      "clay_soil": 0.9899,
+      "red_soil": 0.9962
+    },
+    "min_f1_score": 0.9899
+  }
+  
